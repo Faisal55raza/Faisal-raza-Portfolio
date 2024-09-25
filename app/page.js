@@ -142,9 +142,7 @@ export default function Home() {
         className="w-full h-24 flex  items-center justify-center md:justify-between md:px-10 lg:px-20 bg-gradient-to-b from-black to-transparent"
       >
         <div>
-          <span className="cursor-default text-4xl underline md:no-underline md:text-sky-300 drop-shadow-lg shadow-black">
-            Portfolio
-          </span>
+          
         </div>
         <div>
           <ul className="hidden md:flex items-center justify-evenly md:gap-6 lg:gap-10">
@@ -506,7 +504,7 @@ export default function Home() {
             <div className="px-6 py-4 bg-gray-900">
               <div className="font-bold text-xl mb-2">DRAUPADI ON DAIS</div>
               <p className="text-gray-200 md:text-sm lg:text-base font-thin min-h-12">
-                Next Js | Spring Boot | Web Socket
+              MERN | REACT JS | NODE.JS | TAILWIND | MONGODB | JAVASCRPT |FAST API | GROQ API
               </p>
             </div>
             <div className="px-6 pt-4 pb-2 bg-gray-900 flex items-center justify-between">
